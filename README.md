@@ -7,9 +7,9 @@ Además, en cada categoría guardaré:
 -	Series: el nombre del estudio, el número de temporadas y el año de la primera temporada
 -	Documentales: el director y el año de publicación.
 
-He de poder imprimir en pantalla el registro completo del contenido visto.
-He de poder añadir contenido visto.
-He de poder dar una valoración a uno de los registros.
+Quiero poder imprimir en pantalla el registro completo del contenido visto.
+Quiero poder añadir contenido visto.
+Quiero poder dar una valoración a uno de los registros.
 Si es una serie, puedo dar una valoración global, o valorar cada una de las temporadas por separado.
 
 NOTA: para este ejercicio no guardamos ni leemos de disco, todos los contenidos se inicializarán en memoria en momento de ejecución. El usuario tiene que tener al menos una reproducción de cada tipo.
