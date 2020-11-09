@@ -22,10 +22,8 @@ Ejercicio:
 7. Filtro las peliculas por valoración: solo busco las que me han gustado más.
 
 
-
-
-| **NOTA 1**: | para este ejercicio no guardamos ni leemos de disco, todos los contenidos se inicializarán en memoria en momento de ejecución. |
-| **NOTA 2**: | no hace falta que el usuario entre los datos des de teclado, pero si que tras cada operación se muestre por pantalla como queda el registro, indicando el número del ejercicio. |
+ > :warning: **NOTA 1**: para este ejercicio no guardamos ni leemos de disco, todos los contenidos se inicializarán en memoria en momento de ejecución.
+ > :warning: **NOTA 2**: no hace falta que el usuario entre los datos des de teclado, pero si que tras cada operación se muestre por pantalla como queda el registro, indicando el número del ejercicio. 
  
 
  
