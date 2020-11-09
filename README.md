@@ -14,7 +14,7 @@ Si es una serie, puedo dar una valoración global, o valorar cada una de las tem
 
 Ejercicio:
 1. Recientemente he visto la peli The clockwork orange de Cubrick, el documental the Blue Planet y Stranger Things. No las he valorado por el momento. (incialización)
-2. Revisionando Stranger things, decido que la serie me gusta, pero la segunda temporada no.
+2. Revisionando Stranger things, decido que la serie me gusta, pero la segunda temporada no. Lo vuelvo a registrar.
 3. oops, la naranja mecánica es de Kubrick. Lo corrijo.
 4. Mi hermana me roba la cuenta de Netflix y mira the Notebook (Y lo registra)
 5. Revisando el registro, me doy cuenta de ello y lo borro inmediatamente. Doy valoraciones a las películas que no tienen.
