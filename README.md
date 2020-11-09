@@ -12,5 +12,16 @@ Quiero poder añadir contenido visto.
 Quiero poder dar una valoración a uno de los registros.
 Si es una serie, puedo dar una valoración global, o valorar cada una de las temporadas por separado.
 
-NOTA: para este ejercicio no guardamos ni leemos de disco, todos los contenidos se inicializarán en memoria en momento de ejecución. El usuario tiene que tener al menos una reproducción de cada tipo.
+Ejercicio:
+1. Recientemente he visto la peli The clockwork orange de Cubrick, el documental the Blue Planet y Stranger Things. No las he valorado por el momento. (incialización)
+2. Revisionando Stranger things, decido que la serie me gusta, pero la segunda temporada no.
+3. oops, la naranja mecánica es de Kubrick. Lo corrijo.
+4. Mi hermana me roba la cuenta de Netflix y mira the Notebook (Y lo registra)
+5. Revisando el registro, me doy cuenta de ello y lo borro inmediatamente.
+6. Ayer hice maratón de Stephen King y vi el Resplandor y Pet Samatary. Ambas me gustaron mucho, aunque la primera más que la segunda.
+7. Doy valoraciones a las películas que no tienen.
+8. Filtro las peliculas por valoración: solo busco las que me han gustado más.
 
+
+NOTA 1: para este ejercicio no guardamos ni leemos de disco, todos los contenidos se inicializarán en memoria en momento de ejecución.
+NOTA 2: no hace falta que el usuario entre los datos des de teclado, pero si que tras cada operación se muestre por pantalla como queda el registro, indicando el número del ejercicio.
