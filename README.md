@@ -17,10 +17,9 @@ Ejercicio:
 2. Revisionando Stranger things, decido que la serie me gusta, pero la segunda temporada no.
 3. oops, la naranja mecánica es de Kubrick. Lo corrijo.
 4. Mi hermana me roba la cuenta de Netflix y mira the Notebook (Y lo registra)
-5. Revisando el registro, me doy cuenta de ello y lo borro inmediatamente.
-6. Ayer hice maratón de Stephen King y vi el Resplandor y Pet Samatary. Ambas me gustaron mucho, aunque la primera más que la segunda.
-7. Doy valoraciones a las películas que no tienen.
-8. Filtro las peliculas por valoración: solo busco las que me han gustado más.
+5. Revisando el registro, me doy cuenta de ello y lo borro inmediatamente. Doy valoraciones a las películas que no tienen.
+6. Ayer hice maratón de Stephen King y vi the Shining y Pet Sematary. Ambas me gustaron mucho, aunque la primera más que la segunda.
+7. Filtro las peliculas por valoración: solo busco las que me han gustado más.
 
 
 NOTA 1: para este ejercicio no guardamos ni leemos de disco, todos los contenidos se inicializarán en memoria en momento de ejecución.
